@@ -1,0 +1,146 @@
+[
+  {
+    "text": "What was the theme of the Fall 2026 CSSO Symposium?",
+    "options": [
+      "Leading Through Change",
+      "Transforming Student Success",
+      "The Wisdom We Share",
+      "Surviving Another Accreditation Visit"
+    ],
+    "correctIndex": 2,
+    "timeLimit": 15,
+    "prizeMode": "default"
+  },
+  {
+    "text": "How many times has the CSSO Association offered the CSSO Academy?",
+    "options": [
+      "This was the first time.",
+      "This was the second time.",
+      "This was the third time.",
+      "Lost count after the fourth coffee"
+    ],
+    "correctIndex": 0,
+    "timeLimit": 15,
+    "prizeMode": "default"
+  },
+  {
+    "text": "During the keynote, what did Dr. Laurie Vázquez Scolari explore?",
+    "options": [
+      "Hiding from email until retirement",
+      "Joy and authentic leadership",
+      "Leading through budget cuts",
+      "Building technology focused teams"
+    ],
+    "correctIndex": 1,
+    "timeLimit": 15,
+    "prizeMode": "default"
+  },
+  {
+    "text": "During the Supporting the Whole Student workshop, what was a focus?",
+    "options": [
+      "Early alert systems",
+      "Free pizza solves everything",
+      "Tutoring center redesign",
+      "Mental health and basic needs"
+    ],
+    "correctIndex": 3,
+    "timeLimit": 15,
+    "prizeMode": "default"
+  },
+  {
+    "text": "During the morning workshop on agentic AI, what was introduced?",
+    "options": [
+      "AI that builds programs without coding",
+      "Chatbots for answering FAQs",
+      "AI policies for student conduct",
+      "Robots that attend meetings for you"
+    ],
+    "correctIndex": 0,
+    "timeLimit": 15,
+    "prizeMode": "default"
+  },
+  {
+    "text": "During the Dollars, Data, and Decisions workshop, what was a topic?",
+    "options": [
+      "Finding money in the couch cushions",
+      "Student equity plan goals",
+      "Importance of working with your CBO",
+      "Scholarship fundraising"
+    ],
+    "correctIndex": 2,
+    "timeLimit": 15,
+    "prizeMode": "default"
+  },
+  {
+    "text": "During The Community College League of California update, what was covered?",
+    "options": [
+      "Accreditation standards",
+      "Advocacy and policy updates",
+      "Chancellor's Office data dashboards",
+      "Best snacks in Sacramento"
+    ],
+    "correctIndex": 1,
+    "timeLimit": 15,
+    "prizeMode": "default"
+  },
+  {
+    "text": "During the Belonging Under Pressure workshop, what was a key question?",
+    "options": [
+      "Advancing equity as policies evolve",
+      "Who took the last donut?",
+      "Closing the digital divide",
+      "Growing dual enrollment"
+    ],
+    "correctIndex": 0,
+    "timeLimit": 15,
+    "prizeMode": "default"
+  },
+  {
+    "text": "During the Meeting the Financial Aid Crisis workshop, what incident was examined?",
+    "options": [
+      "Someone spent refunds on concert tickets",
+      "A Cal Grant funding shortfall",
+      "A student records system outage",
+      "A BankMobile security incident"
+    ],
+    "correctIndex": 3,
+    "timeLimit": 15,
+    "prizeMode": "default"
+  },
+  {
+    "text": "During the Leading Teams While Managing Risk workshop, what was addressed?",
+    "options": [
+      "Classified staff evaluations",
+      "Emergency preparedness",
+      "Title IX and compliance",
+      "Reply-all etiquette for VPs"
+    ],
+    "correctIndex": 2,
+    "timeLimit": 15,
+    "prizeMode": "default"
+  },
+  {
+    "text": "What was the purpose of the Regional Action Huddles?",
+    "options": [
+      "Steal students from other campuses",
+      "Sabotage your peers",
+      "Help all students in the region succeed",
+      "Get to happy hour first"
+    ],
+    "correctIndex": 2,
+    "timeLimit": 15,
+    "prizeMode": "default"
+  },
+  {
+    "text": "How likely are you to attend the Spring Conference?",
+    "options": [
+      "0%",
+      "25%",
+      "75%",
+      "100%"
+    ],
+    "correctIndex": 3,
+    "timeLimit": 15,
+    "prizeMode": "default"
+  }
+]
